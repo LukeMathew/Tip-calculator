@@ -12,9 +12,13 @@ function calculateTip() {
     alert("Okay, I know this is a really bad idea but I'm already here so here we fuckin go,rawr x3 nuzzles, pounces on you, uwu you so warm (Ooh) couldn't help but notice your bulge from across the floor nuzzles your necky wecky-tilde murr-tilde, hehe unzips your baggy ass pants, oof baby you so musky.Take me home, pet me, and make me yours and don't forget to stuff me.see me wag my widdle baby tail all for your buldgy-wuldgy. Kissies and lickies your neck.I hope daddy likies. Nuzzles and wuzzles your chest (Yuh).I be (Yeah) gettin thirsty.Hey, I got a little itch, you think you can help me?. Only seven inches long, uwu, please adopt me. Paws on your buldge as I lick my lips (UwU, punish me please).'Bout to hit 'em with this furry shit (He don't see it comin')");
     return;
   }
+  if (billAmt === "what is the sun"){
+    alert('https://www.youtube.com/watch?v=KdbI8BwrA1o');
+    return;
+  }
   //validate input
   if (billAmt === "" || serviceQual == 0) {
-    alert("You forgot something dumbass");
+    alert("You forgot something");
     return;
   }
   //Check to see if this input is empty or less than or equal to 1
